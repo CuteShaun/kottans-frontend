@@ -1,7 +1,6 @@
 # kottans-frontend
 
-Progress and impressions about How to use Git and Github
-=============================================
+**Progress and impressions about How to use Git and Github**
 
 It was really awesome time, I get a lot of new information
 about Git/Github and became more confident in this concepts:
