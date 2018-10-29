@@ -10,12 +10,12 @@ about Git/Github and became more confident in this concepts:
 
 ![screenshot](task_00/screenshot-task_0.png)
 
-
 ********************************************
 
 
+
 **Task_4** - To be honest, nothing special in Udacity course for me, 
-but practice in the end of CSS course was really awesome.
+but practice in the end of CSS course was really awesome. About HTML Academy, I guess it was better courses about markup in the whole world :)
 
 ![screenshot for task 4-1](task_04/screenshot-task_4-1.png)
 
