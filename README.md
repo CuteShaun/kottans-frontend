@@ -2,6 +2,8 @@
 
 **Progress and impressions about How to use Git and Github**
 
+[screenshot](/task_00/screenshot-task_0.png);
+
 It was really awesome time, I get a lot of new information
 about Git/Github and became more confident in this concepts:
 
