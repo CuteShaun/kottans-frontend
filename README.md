@@ -10,7 +10,7 @@ about Git/Github and became more confident in this concepts:
  - `git log --graph --oneline`
  -  fast-forward merge
 
-![git basics screenshot](git_basics/screenshot-task_0.png)
+![git basics screenshot](task_git_basics/screenshot-task_0.png)
 
 
 
