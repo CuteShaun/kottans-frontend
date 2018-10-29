@@ -10,3 +10,18 @@ about Git/Github and became more confident in this concepts:
 
 ![screenshot](task_00/screenshot-task_0.png)
 
+
+********************************************
+
+
+**Task_4** - To be honest, nothing special in Udacity course for me, 
+but practice in the end of CSS course was really awesome.
+
+![screenshot for task 4-1](task_04/screenshot-task_4-1.png)
+
+![screenshot for task 4-2](task_04/screenshot-task_4-2.png)
+
+
+
+
+
