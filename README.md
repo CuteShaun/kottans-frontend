@@ -14,6 +14,13 @@ about Git/Github and became more confident in this concepts:
 
 
 
+## Linux CLI, and HTTP
+
+In this lesson I repeated basic bash commands, and I known a lot information about environment variables: PATH, HOME, PS1 etc. Long and hard reading articles about HTTP was useful, they made me more confident in my knowledge in HTTP in general, and in: Cashing/Headers/Status-code/etc.
+
+![task_linux_cli screenshot for task 1](task_linux_cli/screenshot-task_1.png)
+
+
 
 ## Intro to HTML and CSS
 
@@ -23,8 +30,3 @@ but practice in the end of CSS course was really awesome. About HTML Academy, I 
 ![html and css intro screenshot for task 3-1](task_git_html_css_intro/screenshot-task_3-1.png)
 
 ![html and css intro screenshot for task 3-2](task_git_html_css_intro/screenshot-task_3-2.png)
-
-
-
-
-
