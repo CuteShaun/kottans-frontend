@@ -27,7 +27,7 @@ In this lesson I repeated basic bash commands, and I known a lot information abo
 In this lesson I repeated basic git basic. About new git commands, for me is new and really powerfull commands is:
 
  - `git commit --amend` 
- - `git shortlog --staged`
+ - `git shortlog`
  - `git shortlog -s -n`
  -  combine git log and grep
 
