@@ -22,6 +22,21 @@ In this lesson I repeated basic bash commands, and I known a lot information abo
 
 
 
+## Git Collaboration
+
+In this lesson I repeated basic git basic. About new git commands, for me is new and really powerfull commands is:
+
+ - `git commit --amend` 
+ - `git shortlog`
+ - `git shortlog -s -n`
+ -  combine git log and grep
+
+
+![task_git_collaboration screenshot for task 2-1](task_git_collaboration/screenshot-task_2-1.png)
+![task_git_collaboration screenshot for task 2-2](task_git_collaboration/screenshot-task_2-2.png)
+
+
+
 ## Intro to HTML and CSS
 
 To be honest, nothing special in Udacity HTML/CSS course for me, 
