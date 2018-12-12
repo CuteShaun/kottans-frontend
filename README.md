@@ -1,6 +1,14 @@
 # kottans-frontend
 
-## Git Basics
+- [Git Basics](git_basics)
+- [Linux CLI, and HTTP](linux_cli)
+- [Git Collaboration](git_collab)
+
+- [Intro to HTML and CSS](intro_html)
+- [Responsive Web Design](web_design)
+- [JavaScript Basics](js_basics)
+
+## <a name="linux_cli">Git Basics
 
 It was really awesome time, I get a lot of new information
 about Git/Github and became more confident in this concepts:
@@ -14,7 +22,7 @@ about Git/Github and became more confident in this concepts:
 
 
 
-## Linux CLI, and HTTP
+## <a name="linux_cli">Linux CLI, and HTTP</a>
 
 In this lesson I repeated basic bash commands, and I known a lot information about environment variables: PATH, HOME, PS1 etc. Long and hard reading articles about HTTP was useful, they made me more confident in my knowledge in HTTP in general, and in: Cashing/Headers/Status-code/etc.
 
@@ -22,7 +30,7 @@ In this lesson I repeated basic bash commands, and I known a lot information abo
 
 
 
-## Git Collaboration
+## <a name="git_collab">Git Collaboration</a>
 
 In this lesson I repeated basic git basic. About new git commands, for me is new and really powerfull commands is:
 
@@ -37,7 +45,7 @@ In this lesson I repeated basic git basic. About new git commands, for me is new
 
 
 
-## Intro to HTML and CSS
+## <a name="intro_html">Intro to HTML and CSS</a>
 
 To be honest, nothing special in Udacity HTML/CSS course for me, 
 but practice in the end of CSS course was really awesome. About HTML Academy, I guess it was better courses about markup in the whole world :)
@@ -48,7 +56,7 @@ but practice in the end of CSS course was really awesome. About HTML Academy, I 
 
 
 
-## Responsive Web Design
+## <a name="web_design">Responsive Web Design</a>
 
 Responsive table, srcset feature, and align-content is awesome, thx ^_^
 
@@ -58,9 +66,9 @@ Responsive table, srcset feature, and align-content is awesome, thx ^_^
 
 
 
-## JavaScript Basics
+## <a name="js_basics">JavaScript Basics</a>
 
-In the first part of this course, I repeat basics concepts of javascript and data types, challenges after course is really great, I get stucked on 1 or 2, this case indicate gaps in my knowledge. Second part, God it was hard, but it's enjoyable pain, i used hint for 2 tasks. In third part i felt loneliness and complete missunderstending of the situation (speaker of this course like superhero flash, he spoke and wrote with double-quick speed and theme is really hard to understent)
+In the first part of this course, I repeat basics concepts of javascript and data types, challenges after course is really great, I get stucked on 1 or 2, this case indicate gaps in my knowledge. Second part, God it was hard, but it's enjoyable pain, I used hint for 2 tasks. In third part I felt loneliness and complete missunderstending of the situation (speaker of this course like superhero flash, he spoke and wrote with double-quick speed and theme is really hard to understent :)
 
 ![javascript basics screenshot for task 5-1](task_javascript_basics/screenshot-task_5-1.png)
 
