@@ -8,7 +8,7 @@
 - [Responsive Web Design](#web_design)
 - [JavaScript Basics](#js_basics)
 
-## <a name="linux_cli">Git Basics</a>
+## <a name="git_basics">Git Basics</a>
 
 It was really awesome time, I get a lot of new information
 about Git/Github and became more confident in this concepts:
