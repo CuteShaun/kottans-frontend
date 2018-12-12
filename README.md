@@ -1,14 +1,14 @@
 # kottans-frontend
 
-- [Git Basics](git_basics)
-- [Linux CLI, and HTTP](linux_cli)
-- [Git Collaboration](git_collab)
+- [Git Basics](#git_basics)
+- [Linux CLI, and HTTP](#linux_cli)
+- [Git Collaboration](#git_collab)
 
-- [Intro to HTML and CSS](intro_html)
-- [Responsive Web Design](web_design)
-- [JavaScript Basics](js_basics)
+- [Intro to HTML and CSS](#intro_html)
+- [Responsive Web Design](#web_design)
+- [JavaScript Basics](#js_basics)
 
-## <a name="linux_cli">Git Basics
+## <a name="linux_cli">Git Basics</a>
 
 It was really awesome time, I get a lot of new information
 about Git/Github and became more confident in this concepts:
