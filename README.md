@@ -55,3 +55,15 @@ Responsive table, srcset feature, and align-content is awesome, thx ^_^
 ![responsive web design screenshot for task 4-1](task_responsive_web_design/screenshot-task_4-1.png)
 
 ![responsive web design screenshot for task 4-2](task_responsive_web_design/screenshot-task_4-2.png)
+
+
+
+## JavaScript Basics
+
+In the first part of this course, I repeat basics concepts of javascript and data types, challenges after course is really great, I get stucked on 1 or 2, this case indicate gaps in my knowledge. Second part, God it was hard, but it's enjoyable pain, i used hint for 2 tasks. In third part i felt loneliness and complete missunderstending of the situation (speaker of this course like superhero flash, he spoke and wrote with double-quick speed and theme is really hard to understent)
+
+![javascript basics screenshot for task 5-1](task_javascript_basics/screenshot-task_5-1.png)
+
+![javascript basics screenshot for task 5-2](task_javascript_basics/screenshot-task_5-2.png)
+
+![javascript basics screenshot for task 5-3](task_javascript_basics/screenshot-task_5-3.png)
