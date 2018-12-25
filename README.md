@@ -7,6 +7,7 @@
 - [Intro to HTML and CSS](#intro_html)
 - [Responsive Web Design](#web_design)
 - [JavaScript Basics](#js_basics)
+- [Document Object Model](#js_dom)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -75,3 +76,13 @@ In the first part of this course, I repeat basics concepts of javascript and dat
 ![javascript basics screenshot for task 5-2](task_javascript_basics/screenshot-task_5-2.png)
 
 ![javascript basics screenshot for task 5-3](task_javascript_basics/screenshot-task_5-3.png)
+
+
+
+## <a name="js_dom">Document Object Model</a>
+
+I felt more confident in algorithms, and knew several new features like document fragment, and insertAdjacentHTML, it's really cool and important features. Third task is really great, I choosed Gravity Falls theme, because, it's my sisters favourite cartoon :)
+
+![js dom screenshot for task 6-1](task_js_dom/screenshot-task_6-1.png)
+
+![js dom screenshot for task 6-2](task_js_dom/screenshot-task_6-2.png)
