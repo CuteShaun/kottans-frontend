@@ -8,6 +8,7 @@
 - [Responsive Web Design](#web_design)
 - [JavaScript Basics](#js_basics)
 - [Document Object Model](#js_dom)
+- [Object-Oriented JavaScript](#js_oop)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -86,3 +87,13 @@ I felt more confident in algorithms, and knew several new features like document
 ![js dom screenshot for task 6-1](task_js_dom/screenshot-task_6-1.png)
 
 ![js dom screenshot for task 6-2](task_js_dom/screenshot-task_6-2.png)
+
+
+
+## <a name="js_oop">Object-Oriented Javascript</a>
+
+I'm totally understood scope and closures conception. And earn a lot information about: Object.create, subclasses, functional patters in classes. But, I can't say I felt more confident in JS-OOP after this course.
+
+![js dom screenshot for task 7-1](task_js_dom/screenshot-task_7-1.png)
+
+![js dom screenshot for task 7-2](task_js_dom/screenshot-task_7-2.png)
