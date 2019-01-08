@@ -104,21 +104,21 @@ Reviewed and approved by @<zonzujiro>
 [Demo](https://cuteshaun.github.io/Gravity_falls/)
 
 ## <a name="tiny_js">Building a Tiny JS World (pre-OOP)</a>
-Reviewed and approved by @<OleksiyRudenko>
+Reviewed and approved by @OleksiyRudenko
 [Demo](https://cuteshaun.github.io/a-tiny-JS-world/)
 
 ## <a name="frogger">Object Oriented JS</a>
-Reviewed and approved by @<zonzujiro>
+Reviewed and approved by @zonzujiro
 [Demo](https://cuteshaun.github.io/frogger/)
 
 ## <a name="tiny_js_oop">OOP exercise</a>
-Reviewed and approved by @<OleksiyRudenko>
+Reviewed and approved by @OleksiyRudenko
 [Demo](https://cuteshaun.github.io/a-tiny-JS-oop/)
 
 ## <a name="memory">Memory pair game</a>
-Reviewed and approved by @<zonzujiro>
+Reviewed and approved by @zonzujiro
 [Demo](https://cuteshaun.github.io/Pair_game/)
 
 ## <a name="friends">Friends app</a>
-Reviewed and approved by @<zonzujiro>
+Reviewed and approved by @zonzujiro
 [Demo](https://cuteshaun.github.io/Friends_app/)
