@@ -98,7 +98,7 @@ I'm totally understood scope and closures conception. And earn a lot information
 
 ![js oop screenshot for task 7-2](task_js_oop/screenshot-task_7-2.png)
 
-#Practice
+# Practice
 
 ## <a name="dom_practice">DOM practice</a>
 
