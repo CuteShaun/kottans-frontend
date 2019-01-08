@@ -100,7 +100,7 @@ I'm totally understood scope and closures conception. And earn a lot information
 # Practice
 
 ## <a name="dom_practice">DOM practice</a>
-Reviewed and approved by @<zonzujiro>
+Reviewed and approved by @zonzujiro
 [Demo](https://cuteshaun.github.io/Gravity_falls/)
 
 ## <a name="tiny_js">Building a Tiny JS World (pre-OOP)</a>
