@@ -18,7 +18,6 @@
 
 - [DOM practice](#dom_practice)
 - [Building a Tiny JS World (pre-OOP)](#tiny_js)
-- [Building a Tiny JS World (pre-OOP)](#tiny_js)
 - [Object Oriented JS](#frogger)
 - [OOP exercise](#tiny_js_oop)
 - [Memory pair game](#memory)
